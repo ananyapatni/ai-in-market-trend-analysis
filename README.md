@@ -1,7 +1,8 @@
 # ai-in-market-trend-analysis 
+
+
 ## Early Panic Detection in Gold Markets Using News Sentiment and Price Volatility
-Done for the attainment of the AI Minor degree from IIT Ropar
-Performed under the guidance of Dr.Niranjan Deshpande
+Done for the attainment of the AI Minor degree from IIT Ropar. Performed under the guidance of Dr.Niranjan Deshpande
 
 
 ### Project Overview
