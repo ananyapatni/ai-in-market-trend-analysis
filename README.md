@@ -75,12 +75,10 @@ To retrain the Bi-LSTM model, adjust hyperparameters directly in the notebook
 
 1. Yahoo Finance (Gold Prices): GC=FGold News Dataset: gold_news.csv
 
-Citations:
-CEEMDAN Paper: https://doi.org/10.1016/j.ymssp.2009.04.006
-## References
+References and Citations:
 
 1. Sinha, Ankur, and Tanmay Khandait. "Impact of News on the Commodity Market: Dataset and Results." *Future of Information and Communication Conference*, pp. 589–601. Springer, Cham, 2021. [DOI/Publisher Link](https://www.sciencedirect.com/science/article/abs/pii/S1062940821000553)  
-   - Dataset and methodology inspired the news sentiment analysis in this project.
+   - The dataset and methodology inspired the news sentiment analysis in this project.
 
 2. Sinha, Ankur, and Tanmay Khandait. "Impact of News on the Commodity Market: Dataset and Results." *arXiv preprint arXiv:2009.04202*, 2020. [arXiv Link](https://arxiv.org/abs/2009.04202)  
    - Used as a reference for constructing the gold news dataset and labeling strategy.
